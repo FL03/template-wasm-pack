@@ -1,0 +1,3 @@
+tasks:
+  - init: cargo install cargo-generate
+    command: cargo test --workspace
