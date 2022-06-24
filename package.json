@@ -1,0 +1,20 @@
+{
+    "author": "FL03 <jo3mccain@icloud.com> (https://pzzld.eth.link/)",
+    "description": "A complete template for developing wasm-pack applications in rust.",
+    "keywords": ["template", "svelte", "wasm-pack", "rust"],
+    "license": "MIT",
+    "main": "",
+    "name": "@template/root",
+    "private": false,
+    "readme": "README.md",
+    "repository": {
+        "directory": ".",
+        "type": "git",
+        "url": "git+https://github.com/FL03/template-wasm-pack.git"
+    },
+    "scripts": {
+        "build": "",
+        "test": "cargo test"
+    },
+    "version": "0.1.0"
+}
